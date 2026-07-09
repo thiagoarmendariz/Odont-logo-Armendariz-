@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F4FBFB"/>
+  <rect x="76" y="76" width="1048" height="478" rx="18" fill="white" stroke="#DBE8EE" stroke-width="2"/>
+  <circle cx="950" cy="315" r="150" fill="#DFF5FF"/>
+  <circle cx="950" cy="315" r="92" fill="#D9F6EC"/>
+  <path d="M891 275C911 247 936 235 965 239C1001 244 1028 273 1025 310C1020 375 965 410 950 410C935 410 880 375 875 310C874 297 879 284 891 275Z" fill="white"/>
+  <path d="M907 300C921 323 938 334 958 334C978 334 995 323 1009 300" stroke="#0F766E" stroke-width="16" stroke-linecap="round"/>
+  <text x="126" y="260" fill="#17324D" font-family="Arial, sans-serif" font-size="74" font-weight="700">Consultorio odontologico</text>
+  <text x="126" y="342" fill="#0F766E" font-family="Arial, sans-serif" font-size="42" font-weight="700">Atencion profesional y personalizada</text>
+  <text x="126" y="418" fill="#5B7083" font-family="Arial, sans-serif" font-size="30">Turnos, servicios, contacto y WhatsApp en un solo lugar.</text>
+</svg>
